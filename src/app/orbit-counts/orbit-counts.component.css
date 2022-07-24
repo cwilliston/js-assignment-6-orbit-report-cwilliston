@@ -7,6 +7,7 @@
 
 .counts div {
 	padding: 8px;
+	font-weight:bold;
 }
 
 .counts span {
